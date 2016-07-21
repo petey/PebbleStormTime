@@ -3,7 +3,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "petey31@yahoo.com",
+    "companyName": "jedipetey@gmail.com",
     "longName": "StormTime",
     "projectType": "pebblejs",
     "resources": {
@@ -33,11 +33,16 @@
     },
     "sdkVersion": "3",
     "shortName": "StormTime",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
     "uuid": "48b6b1f3-ab2a-491b-b423-c65b65867eef",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
         "hiddenApp": false,
-        "watchface": false
+        "watchface": true
     }
 }
